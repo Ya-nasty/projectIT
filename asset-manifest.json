@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/projectIT/static/css/main.d38127ac.css",
+    "main.js": "/projectIT/static/js/main.2ff3e53d.js",
+    "static/js/488.3a65aad5.chunk.js": "/projectIT/static/js/488.3a65aad5.chunk.js",
+    "static/media/uwu.png": "/projectIT/static/media/uwu.7dbde59abbb0604f3fb6.png",
+    "static/media/gug.jpg": "/projectIT/static/media/gug.1f15693184c96de944ab.jpg",
+    "static/media/iii.jpg": "/projectIT/static/media/iii.88dc6c3b80beeae2a795.jpg",
+    "static/media/2этаж.png": "/projectIT/static/media/2этаж.d030e848ed21684cb285.png",
+    "static/media/3этаж.png": "/projectIT/static/media/3этаж.4bcb40d5a4fa6ad78fd8.png",
+    "static/media/1этаж.png": "/projectIT/static/media/1этаж.c9b6fd8fd7030cee26da.png",
+    "static/media/ttt.jpg": "/projectIT/static/media/ttt.5670c2c92ef4e6132b7a.jpg",
+    "index.html": "/projectIT/index.html",
+    "main.d38127ac.css.map": "/projectIT/static/css/main.d38127ac.css.map",
+    "main.2ff3e53d.js.map": "/projectIT/static/js/main.2ff3e53d.js.map",
+    "488.3a65aad5.chunk.js.map": "/projectIT/static/js/488.3a65aad5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d38127ac.css",
+    "static/js/main.2ff3e53d.js"
+  ]
+}
